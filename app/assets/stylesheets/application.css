@@ -13,3 +13,22 @@
  *= require_tree .
  *= require_self
  */
+body {
+  background-color: rgb(244, 177, 177);
+  color: rgb(255, 0, 0);
+  border-radius: 30px;
+  text-align: center;
+  padding: 10px 10px;
+}
+.yo{
+  text-align: center;
+  color: azure;
+  text-decoration: none;
+}
+.yooo {
+background-color: black;
+border-radius: 20px;
+width: 100px;
+margin: auto;
+padding: 10px 10px;
+}
